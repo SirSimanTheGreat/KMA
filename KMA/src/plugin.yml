@@ -1,0 +1,7 @@
+name: KMA
+main: com.poly.KMA.KMA
+version: 1.0
+
+commands: 
+  createmission:
+    usage: /createmission [name] [cost] [reward] [typ:headhunter,stealth,main,protect]
